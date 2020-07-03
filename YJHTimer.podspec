@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
     我这是一个测试
                    DESC
 
-  spec.homepage     = "https://github.com/love626947341/YJHTimer.git"
+  spec.homepage     = "http://github.com/love626947341/YJHTimer.git"
   # spec.screenshots  = "www.example.cosource_filesm/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
